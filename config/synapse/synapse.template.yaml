@@ -42,7 +42,6 @@ event_cache_size: "20K"
 
 log_config: "/config/synapse.log.config"
 
-
 ## Ratelimiting
 
 rc_message:

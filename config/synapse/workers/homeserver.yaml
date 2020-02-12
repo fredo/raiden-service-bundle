@@ -1,1 +1,4 @@
 worker_app: synapse.app.homeserver
+
+# Handled by the federation_sender worker
+send_federation: False
